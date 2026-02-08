@@ -15,3 +15,11 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+
+# exclude datasets (corpus, indexes, ecc...)
+corpus-html/
+figures/
+tables/
+index/
+index_figure/
+index_table/
